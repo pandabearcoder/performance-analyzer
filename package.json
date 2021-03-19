@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "lighthouse": "6.1.0",
+    "moment": "^2.27.0",
+    "morgan": "^1.9.1",
+    "puppeteer": "^1.19.0",
+    "selenium-side-runner": "^3.17.0"
+  }
+}
